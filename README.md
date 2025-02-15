@@ -4,6 +4,7 @@ Color palette generator.
 ### Built With
 
 * [Reactjs](https://es.react.dev/)
+* [chroma.js](https://gka.github.io/chroma.js/)
 * [Tailwind](https://tailwindcss.com/)
 * [Vite](https://es.vite.dev/)
 
